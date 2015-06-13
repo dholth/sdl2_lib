@@ -1,0 +1,16 @@
+Metadata-Version: 2.0
+Name: sdl2-lib
+Version: ${VERSION}
+Summary: SDL2 Windows DLLs repackaged for pypi
+Home-page: https://bitbucket.org/pysdl2-cffi
+Author: Daniel Holth
+Author-email: dholth@fastmail.fm
+License: zlib
+Keywords: sdl2
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+
+${DESCRIPTION}
